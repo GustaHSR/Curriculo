@@ -41,7 +41,7 @@ header {
     display: flex;
     justify-content: space-evenly;
     margin: auto;
-    animation: fadeIn 1s ease-in-out;
+    
 }
 
 .dados-pessoais, .habilidades, .sobre-mim {
