@@ -55,10 +55,6 @@ header {
     
 }
 
-.dados-pessoais:hover, .habilidades:hover, .sobre-mim:hover {
-    scale:1.1;
-}
-
 .dados-pessoais h2, .sobre-mim h2, .habilidades h2 {
     text-align: center;
 }
