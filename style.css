@@ -51,8 +51,6 @@ header {
     border-radius: 5px;
     margin: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-    transition: scale 0.3s ease-in-out;
-    
 }
 
 .dados-pessoais h2, .sobre-mim h2, .habilidades h2 {
